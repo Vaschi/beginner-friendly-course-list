@@ -1,7 +1,15 @@
 # Beginner-Friendly  Courses Guide
 **Tip:** To open course links in a new tab, right-click on the link and select "Open link in new tab" or use the keyboard shortcut `CTRL + click` (or `CMD + click` on Mac).
 
-## Table of Contents:
+**UDEMY Coupon's:** [Udemy Coupon Generator](https://infognu.com/udemy-coupon-generator)
+- **How:** enter the link of the udemy course,click on activate coupon
+
+**Coursera financial aid** [How to apply for Financial Aid on Coursera](https://www.youtube.com/watch?v=YD0pop4eyr4&ab_channel=CalebDigest)
+- **Tip:** Save the essays , you will reuse 90%~100% of them for later courses 
+
+
+# Table of Contents:
+
 - [Python](#python)
 - [Machine Learning](#machine-learning)
 
@@ -41,7 +49,7 @@ Python is a versatile, high-level programming language known for its simplicity 
 - **Platform:** Udemy
 - **Description:** isn’t for total Python beginners, intended to prepare you to study deep learning and data science.Focuses on the Numpy Stack,Other topics covered include Pandas, Scipy, and Matplotlib.
 - **Duration:** 5 hours and 54 minutes  
-- **Cost:** $74.99 , use free cupon to get 90% off  
+- **Cost:** $74.99 , use free coupon to get 90% off  
 - **Prerequisites:** matrix arithmetic and basic Python coding
 - **Certificate:** Yes
 
@@ -50,7 +58,7 @@ Python is a versatile, high-level programming language known for its simplicity 
 - **Platform:** Udemy
 - **Description:** Master Python by building 100 projects in 100 days. Learn data science, automation, build websites, games and apps.Complete bootcamp. 
 - **Duration:** ~54 hours  + Assignments
-- **Cost:** $99.99, use cupon to criple the price  
+- **Cost:** $99.99, use coupon to cripple the price  
 - **Prerequisites:** No
 - **Certificate:** Yes
 
