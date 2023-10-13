@@ -8,6 +8,7 @@
 - **Tip:** Save the essays , you will reuse 90%~100% of them for later courses
 - **Tip_2:** ChatGPT is a great essay writing tool 
 
+**Creator's note:** The order doesn't mean anything,have fun.
 
 
 # 🚕 Table of Contents:
