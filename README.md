@@ -18,7 +18,7 @@ Python is a versatile, high-level programming language known for its simplicity 
 - **Certificate:** Yes
 
 ### Course 2:
-- **Title:** [Introduction to Python Programming](https://www.udemy.com/course/pythonforbeginnersintro/)
+- **Title:** <a href="https://www.udemy.com/course/pythonforbeginnersintro/" target="_blank">Introduction to Python Programming</a>
 - **Platform:** Udemy
 - **Description:** Quick and easy intro.
 - **Duration:** Less than two hours to complete.
