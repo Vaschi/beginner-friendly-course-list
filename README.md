@@ -18,7 +18,7 @@
 <a name="python"></a>
 ## 🐍 Python 
 
-Python is a versatile, high-level programming language known for its simplicity and readability. It's widely used in web development, data science, artificial intelligence, scientific computing, and more.
+"Your Mother Was A Hamster And Your Father Smelt Of Elderberries!" - French Knight to King Arthur
 
 ### Course 1:
 - **Title:** [Python for Everybody Specialization by the University of Michigan](https://www.coursera.org/specializations/python)  
