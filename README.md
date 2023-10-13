@@ -20,7 +20,7 @@
 ## 🐍 Python 
 Python is a high-level, dynamically-typed programming language known for its simplicity, readability, and versatility in various applications, from web development to data science.
 
-"Your Mother Was A Hamster And Your Father Smelt Of Elderberries!" - French Knight to King Arthur
+"Your Mother Was A Hamster And Your Father Smelt Of Elderberries!" - French Knight to King Arthur of camelot
 
 ### Course 1:
 - **Title:** [Python for Everybody Specialization by the University of Michigan](https://www.coursera.org/specializations/python)  
@@ -124,3 +124,54 @@ Machine learning is a subset of artificial intelligence (AI) that focuses on bui
 
 <a name="math"></a>
 ## 🧮 The Math
+
+Mathematics is the intricate language of the universe, a symphony of logic and creativity, unlocking nature's deepest secrets and shaping our modern world in countless, often unseen ways.
+
+"A mathematician is a blind man in a dark room looking for a black cat which isn't there." ~ some guy that dropped out of medical school and married his first cousine
+
+### Course 1:
+- **Title:** [Mathematics for Machine Learning and Data Science Specialization](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science?)
+- **Platform:** Coursera
+- **Description:** calculus, linear algebra, statistics, and probability. The fun stuff.Covers everything but you will need deeper practice for full understanding
+- **Duration:** 3 months at 5 hours a week
+- **Cost:** Free with financial Aid or paid coursera sub($40)
+- **Prerequisites:** highscool math 
+- **Certificate:** Yes
+
+### Course 2:
+- **Title:** [Linear Algebra for Machine Learning](https://www.youtube.com/watch?v=Qc19jQWHdL0&list=PLRDl2inPrWQW1QSWhBU0ki-jq_uElkh2a&ab_channel=JonKrohn)
+- **Platform:** Youtube
+- **Description:** Linear algebra for ML, a playlist
+- **Duration:** don't know, find out
+- **Cost:** Free
+- **Prerequisites:** highscool math 
+- **Certificate:** No
+
+### Course 3:
+- **Title:** [calculus for machine learning](https://www.youtube.com/playlist?list=PLRDl2inPrWQVu2OvnTvtkRpJ-wz-URMJx)
+- **Platform:** Youtube
+- **Description:** Calculus for ML, a playlist
+- **Duration:** don't know, find out
+- **Cost:** Free
+- **Prerequisites:** highscool math 
+- **Certificate:** No
+
+### Course 4:
+- **Title:** [Statistics - A Full University Course on Data Science Basics](https://www.youtube.com/watch?v=xxpc-HPKN28&ab_channel=freeCodeCamp.org)
+- **Platform:** Youtube
+- **Description:**  collect, organize, summarize, interpret and reach conclusions about data. An emphasis is placed on demonstrating that statistics is more than mathematical calculations
+- **Duration:** 8 h : 15 min
+- **Cost:** Free
+- **Prerequisites:** highscool math 
+- **Certificate:** No
+
+### Course 5:
+- **Title:** [Probabilistic ML](https://www.youtube.com/playlist?list=PL05umP7R6ij2YE8rRJSb-olDNbntAQ_Bx)
+- **Platform:** Youtube
+- **Description:**  Probability, “You’ll always miss 100% of the shots you don’t take.” – guy that plays Hockey 
+- **Duration:** ~36 h
+- **Cost:** Free
+- **Prerequisites:** highscool math 
+- **Certificate:** No
+
+
