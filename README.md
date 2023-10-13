@@ -17,6 +17,7 @@
 
 <a name="python"></a>
 ## 🐍 Python 
+Python is a high-level, dynamically-typed programming language known for its simplicity, readability, and versatility in various applications, from web development to data science.
 
 "Your Mother Was A Hamster And Your Father Smelt Of Elderberries!" - French Knight to King Arthur
 
