@@ -139,7 +139,7 @@ Mathematics is the intricate language of the universe, a symphony of logic and c
 - **Certificate:** Yes
 
 ### Course 2:
-- **Title:** [Linear Algebra for Machine Learning](https://www.youtube.com/watch?v=Qc19jQWHdL0&list=PLRDl2inPrWQW1QSWhBU0ki-jq_uElkh2a&ab_channel=JonKrohn)
+- **Title:** [Linear Algebra for Machine Learning](https://www.youtube.com/playlist?list=PLRDl2inPrWQW1QSWhBU0ki-jq_uElkh2a)
 - **Platform:** Youtube
 - **Description:** Linear algebra for ML, a playlist
 - **Duration:** don't know, find out
