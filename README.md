@@ -91,3 +91,31 @@ Machine learning is a subset of artificial intelligence (AI) that focuses on bui
 
 "Torture the data, and it will confess to anything."
 ~ Some guy that loved cats and was into economics
+
+
+### Course 1:
+- **Title:** [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) 
+- **Platform:** Coursera
+- **Description:** BreakIntoAI with Machine Learning Specialization. Master fundamental AI concepts and develop practical machine learning skills in the beginner-friendly, 3-course program by AI visionary Andrew Ng
+- **Duration:** 2 months at 10 hours a week
+- **Cost:** Financial Aid(Free) or $40~50
+- **Prerequisites:** Knowledge in Python and Math for Machine Learning will help a lot
+- **Certificate:** Yes
+
+### Course 2:
+- **Title:** [Machine Learning with Python](https://www.freecodecamp.org/learn/machine-learning-with-python/) 
+- **Platform:** freecodecamp
+- **Description:** In the Machine Learning with Python Certification, you'll use the TensorFlow framework to build several neural networks and explore more advanced techniques like natural language processing and reinforcement learning.
+- **Duration:** Not tested
+- **Cost:** Free
+- **Prerequisites:** Recommend finishing the coursera specialization
+- **Certificate:** Yes
+
+### Course 3:
+- **Title:** [Complete Machine Learning & Data Science Bootcamp 2023](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/) 
+- **Platform:** Udemy
+- **Description:** Learn Data Science, Data Analysis, Machine Learning (Artificial Intelligence) and Python with Tensorflow, Pandas.Highly rated course, a big one, has a lot of topics for beginners to explore
+- **Duration:** 43.5 hours + exercises
+- **Cost:** $79.99 , can cripple with coupon(90% off)
+- **Prerequisites:** None
+- **Certificate:** Yes
