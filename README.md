@@ -88,3 +88,6 @@ Python is a high-level, dynamically-typed programming language known for its sim
 ## ⚙️ Machine Learning
 
 Machine learning is a subset of artificial intelligence (AI) that focuses on building systems that can learn from and make decisions based on data. Rather than being explicitly programmed to perform a certain task, these systems are trained using large amounts of data and algorithms that give them the ability to learn how to perform the task.
+
+"Torture the data, and it will confess to anything."
+~ Some guy that loved cats and was into economics
