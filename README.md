@@ -10,9 +10,10 @@
 
 # 🚕 Table of Contents:
 
-- [Python](#python)
+- [🐍 Python](#python)
 - [Machine Learning](#machine-learning)
 
+<a name="python"></a>
 ## 🐍 Python 
 
 Python is a versatile, high-level programming language known for its simplicity and readability. It's widely used in web development, data science, artificial intelligence, scientific computing, and more.
