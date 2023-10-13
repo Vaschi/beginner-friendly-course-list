@@ -96,7 +96,7 @@ Machine learning is a subset of artificial intelligence (AI) that focuses on bui
 ### Course 1:
 - **Title:** [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) 
 - **Platform:** Coursera
-- **Description:** BreakIntoAI with Machine Learning Specialization. Master fundamental AI concepts and develop practical machine learning skills in the beginner-friendly, 3-course program by AI visionary Andrew Ng
+- **Description:** The go to first ML course that is recomended, but you do need pre-req knowledge to fully absorb it
 - **Duration:** 2 months at 10 hours a week
 - **Cost:** Financial Aid(Free) or $40~50
 - **Prerequisites:** Knowledge in Python and Math for Machine Learning will help a lot
