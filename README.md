@@ -122,6 +122,16 @@ Machine learning is a subset of artificial intelligence (AI) that focuses on bui
 - **Prerequisites:** None
 - **Certificate:** Yes
 
+### Course 4:
+- **Title:** [Kaggle playlist](https://www.kaggle.com/learn) 
+- **Platform:** Kaggle
+- **Description:** A kaggle playlist geared toward ML, super beginner friendly, should probably do this first if complete beginner
+- **Duration:** no idea
+- **Cost:** free
+- **Prerequisites:** None
+- **Certificate:** badges, almost worthless, but cool
+
+
 
 <a name="math"></a>
 ## 🧮 The Math
