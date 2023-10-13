@@ -35,3 +35,39 @@ Python is a versatile, high-level programming language known for its simplicity 
 - **Cost:** Free  
 - **Prerequisites:** No
 - **Certificate:** No
+  
+ ### Course 4:
+- **Title:** [Deep Learning Prerequisites: The Numpy Stack in Python (V2+)](https://www.udemy.com/course/deep-learning-prerequisites-the-numpy-stack-in-python/)  
+- **Platform:** Udemy
+- **Description:** isn’t for total Python beginners, intended to prepare you to study deep learning and data science.Focuses on the Numpy Stack,Other topics covered include Pandas, Scipy, and Matplotlib.
+- **Duration:** 5 hours and 54 minutes  
+- **Cost:** $74.99 , use free cupon to get 90% off  
+- **Prerequisites:** matrix arithmetic and basic Python coding
+- **Certificate:** Yes
+
+ ### Course 5:
+- **Title:** [100 Days of Code: The Complete Python Pro Bootcamp for 2023](https://www.udemy.com/course/100-days-of-code/?kw=100+days&src=sac)  
+- **Platform:** Udemy
+- **Description:** Master Python by building 100 projects in 100 days. Learn data science, automation, build websites, games and apps.Complete bootcamp. 
+- **Duration:** ~54 hours  + Assignments
+- **Cost:** $99.99, use cupon to criple the price  
+- **Prerequisites:** No
+- **Certificate:** Yes
+
+### Course 6:
+- **Title:** [Kaggle:Python](https://www.kaggle.com/learn/python)  
+- **Platform:** Kaggle
+- **Description:** Very beginner  friendly course,foundational programming concepts
+- **Duration:** 5 (estimated)
+- **Cost:** Free 
+- **Prerequisites:** Basic programming
+- **Certificate:** You get a badge, looks cool
+
+### Course 7:
+- **Title:** [Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/)  
+- **Platform:** freecodecamp
+- **Description:** learn the fundamentals of data analysis with Python,Numpy, Pandas, Matplotlib, and Seaborn to process and visualize data.
+- **Duration:** Couple of hours probably,not tested
+- **Cost:** Free 
+- **Prerequisites:** should not be your first course,suggest going through the kaggle courses first
+- **Certificate:** Yes
