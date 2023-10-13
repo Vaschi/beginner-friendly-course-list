@@ -5,7 +5,7 @@
 - [Python](#python)
 - [Machine Learning](#machine-learning)
 
-## Python
+## 🐍 Python
 
 Python is a versatile, high-level programming language known for its simplicity and readability. It's widely used in web development, data science, artificial intelligence, scientific computing, and more.
 
@@ -73,6 +73,6 @@ Python is a versatile, high-level programming language known for its simplicity 
 - **Certificate:** Yes
 
 
-## Machine Learning
+## ⚙️ Machine Learning
 
 Machine learning is a subset of artificial intelligence (AI) that focuses on building systems that can learn from and make decisions based on data. Rather than being explicitly programmed to perform a certain task, these systems are trained using large amounts of data and algorithms that give them the ability to learn how to perform the task.
