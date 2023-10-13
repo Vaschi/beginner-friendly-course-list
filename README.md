@@ -5,13 +5,15 @@
 - **How:** enter the link of the udemy course,click on activate coupon
 
 **Coursera financial aid** [How to apply for Financial Aid on Coursera](https://www.youtube.com/watch?v=YD0pop4eyr4&ab_channel=CalebDigest)
-- **Tip:** Save the essays , you will reuse 90%~100% of them for later courses 
+- **Tip:** Save the essays , you will reuse 90%~100% of them for later courses
+- **Tip_2:** ChatGPT is a great essay writing tool 
+
 
 
 # 🚕 Table of Contents:
 
 - [🐍 Python](#python)
-- [Machine Learning](#machine-learning)
+- [⚙️ Machine Learning](#machine-learning)
 
 <a name="python"></a>
 ## 🐍 Python 
