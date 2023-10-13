@@ -13,7 +13,7 @@ Python is a versatile, high-level programming language known for its simplicity 
 - **Title:** [Python for Everybody Specialization by the University of Michigan](https://www.coursera.org/specializations/python)  
 - **Platform:** Coursera  
 - **Description:** An introductory course that covers Python basics, data structures, and simple scripting,a course better for people with no programming exp,but fantastic for beginners  
-- **Duration:** 1 month min
+- **Duration:** 2 months at 10 hours a week
 - **Cost:** Free to audit ($49 per month to enroll) or Financial Aid(Free)
 - **Prerequisites:** None
 - **Certificate:** Yes
