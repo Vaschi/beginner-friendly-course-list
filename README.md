@@ -3,7 +3,7 @@
 
 ## Table of Contents:
 - [Python](#python)
-- [Machine Learning](#machinelearning)
+- [Machine Learning](#machine-learning)
 
 ## Python
 
