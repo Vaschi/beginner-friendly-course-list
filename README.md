@@ -1,4 +1,5 @@
 # Beginner-Friendly  Courses Guide
+**Tip:** To open course links in a new tab, right-click on the link and select "Open link in new tab" or use the keyboard shortcut `CTRL + click` (or `CMD + click` on Mac).
 
 ## Table of Contents:
 - [Python](#python)
@@ -18,7 +19,7 @@ Python is a versatile, high-level programming language known for its simplicity 
 - **Certificate:** Yes
 
 ### Course 2:
-- **Title:** <a href="https://www.udemy.com/course/pythonforbeginnersintro/" target="_blank">Introduction to Python Programming</a>
+- **Title:** [Introduction To Python Programming](https://www.udemy.com/course/pythonforbeginnersintro/)  
 - **Platform:** Udemy
 - **Description:** Quick and easy intro.
 - **Duration:** Less than two hours to complete.
