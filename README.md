@@ -14,6 +14,7 @@
 
 - [🐍 Python](#python)
 - [⚙️ Machine Learning](#machine-learning)
+- [🧮 The Math](#math)
 
 <a name="python"></a>
 ## 🐍 Python 
@@ -119,3 +120,7 @@ Machine learning is a subset of artificial intelligence (AI) that focuses on bui
 - **Cost:** $79.99 , can cripple with coupon(90% off)
 - **Prerequisites:** None
 - **Certificate:** Yes
+
+
+<a name="math"></a>
+## 🧮 The Math
