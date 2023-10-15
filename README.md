@@ -55,7 +55,7 @@ Just as a child takes tentative, uncertain steps before running with confidence,
 
 ---
 **🔔 Heads Up!**
-Baby steps are enough for you to move on to more challenging stuff, but you are free to explore the rest of the resources here to hone your skill even further.Use the [Table of Contents](#bonus) to see what you want to explore 🌱
+Baby steps are enough for you to move on to more challenging stuff, but you are free to explore the rest of the resources here to hone your skill even further.Use the [🚕](#bonus) to see what you want to explore 🌱
 --- 
 
 
@@ -114,7 +114,7 @@ Python is a high-level, dynamically-typed programming language known for its sim
 - **Certificate:** 🎓
 
 <a name="machine-learning"></a>
-## ⚙️ Machine Learning
+## ⚙️ Machine Learning  [🚕](#bonus)
 
 Machine learning is a subset of artificial intelligence (AI) that focuses on building systems that can learn from and make decisions based on data. Rather than being explicitly programmed to perform a certain task, these systems are trained using large amounts of data and algorithms that give them the ability to learn how to perform the task.
 
@@ -139,7 +139,7 @@ Machine learning is a subset of artificial intelligence (AI) that focuses on bui
 
 
 <a name="math"></a>
-## 🧮 The Math
+## 🧮 The Math  [🚕](#bonus)
 
 Mathematics is the intricate language of the universe, a symphony of logic and creativity, unlocking nature's deepest secrets and shaping our modern world in countless, often unseen ways.
 
