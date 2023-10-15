@@ -1,6 +1,6 @@
 # Beginner-Friendly  Courses Guide
 **Tip:** To open course links in a new tab, right-click on the link and select "Open link in new tab" or use the keyboard shortcut `CTRL + click` (or `CMD + click` on Mac).
-
+<a name="coupon"></a>
 **UDEMY Coupon's:** [Udemy Coupon Generator](https://infognu.com/udemy-coupon-generator)
 - **How:** enter the link of the udemy course,click on activate coupon
 
@@ -44,6 +44,15 @@ Just as a child takes tentative, uncertain steps before running with confidence,
 - **Prerequisites:** None
 - **Certificate:** 🎓
 
+### Third step:
+- **Title:** [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction)  
+- **Platform:** Coursera
+- **Description:** 3 course specialization, industry standard for starting point in Machine Learning
+- **Duration:** 1 month for each course 
+- **Cost:** 🎁[Financial Aid](#aid) or 💲(Coursera subscription)
+- **Prerequisites:** None
+- **Certificate:** 🎓
+
 
 <a name="python"></a>
 ## 🐍 Python 
@@ -51,68 +60,53 @@ Python is a high-level, dynamically-typed programming language known for its sim
 
 "Your Mother Was A Hamster And Your Father Smelt Of Elderberries!" - French Knight to King Arthur of camelot
 
-### Course 1:
-- **Title:** [Python for Everybody Specialization by the University of Michigan](https://www.coursera.org/specializations/python)  
+### [Python for Everybody Specialization by the University of Michigan](https://www.coursera.org/specializations/python)
 - **Platform:** Coursera  
 - **Description:** Specialization - 5 course series, a course better for people with no programming exp,but fantastic for beginners  
 - **Duration:** 2 months at 10 hours a week
-- **Cost:** Free to audit ($49 per month to enroll) or Financial Aid(Free)
+- **Cost:** 🎁[Financial Aid](#aid) or 💲(Coursera subscription)
 - **Prerequisites:** None
-- **Certificate:** Yes
+- **Certificate:** 🎓
 
-### Course 2:
-- **Title:** [Introduction To Python Programming](https://www.udemy.com/course/pythonforbeginnersintro/)  
+### [Introduction To Python Programming](https://www.udemy.com/course/pythonforbeginnersintro/)  
 - **Platform:** Udemy
 - **Description:** Quick and easy intro.
 - **Duration:** Less than two hours to complete.
-- **Cost:** Free
+- **Cost:** 🎁
 - **Prerequisites:** Basic computer literacy
-- **Certificate:** No
-
-### Course 3:
-- **Title:** [Learn Python 3.6 for Total Beginners](https://www.udemy.com/course/python-3-for-total-beginners/)  
+- **Certificate:** 🚫
+  
+### [Learn Python 3.6 for Total Beginners](https://www.udemy.com/course/python-3-for-total-beginners/)  
 - **Platform:** Udemy
 - **Description:** focuses on Python 3.6.You’ll learn how to install the Jupyter Notebook, then move on to topics including data structures, loops, functions, and more 
 - **Duration:** 6 hours and 42 minutes  
-- **Cost:** Free  
+- **Cost:** 🎁 
 - **Prerequisites:** No
-- **Certificate:** No
+- **Certificate:** 🚫
   
- ### Course 4:
-- **Title:** [Deep Learning Prerequisites: The Numpy Stack in Python (V2+)](https://www.udemy.com/course/deep-learning-prerequisites-the-numpy-stack-in-python/)  
+ ### [Deep Learning Prerequisites: The Numpy Stack in Python (V2+)](https://www.udemy.com/course/deep-learning-prerequisites-the-numpy-stack-in-python/)  
 - **Platform:** Udemy
 - **Description:** isn’t for total Python beginners, intended to prepare you to study deep learning and data science.Focuses on the Numpy Stack,Other topics covered include Pandas, Scipy, and Matplotlib.
 - **Duration:** 5 hours and 54 minutes  
-- **Cost:** $74.99 , use free coupon to get 90% off  
+- **Cost:** 💲74.99 , [coupon 90% off](#coupon) 
 - **Prerequisites:** matrix arithmetic and basic Python coding
-- **Certificate:** Yes
+- **Certificate:** 🎓
 
- ### Course 5:
-- **Title:** [100 Days of Code: The Complete Python Pro Bootcamp for 2023](https://www.udemy.com/course/100-days-of-code/?kw=100+days&src=sac)  
+ ### [100 Days of Code: The Complete Python Pro Bootcamp for 2023](https://www.udemy.com/course/100-days-of-code/?kw=100+days&src=sac)  
 - **Platform:** Udemy
 - **Description:** Master Python by building 100 projects in 100 days. Learn data science, automation, build websites, games and apps.Complete bootcamp. 
 - **Duration:** ~54 hours  + Assignments
-- **Cost:** $99.99, use coupon to cripple the price  
+- **Cost:** 💲99.99, [coupon 90% off](#coupon)   
 - **Prerequisites:** No
-- **Certificate:** Yes
+- **Certificate:** 🎓
 
-### Course 6:
-- **Title:** [Kaggle:Python](https://www.kaggle.com/learn/python)  
-- **Platform:** Kaggle
-- **Description:** Very beginner  friendly course,foundational programming concepts
-- **Duration:** 5 (estimated)
-- **Cost:** Free 
-- **Prerequisites:** Basic programming
-- **Certificate:** You get a badge, looks cool
-
-### Course 7:
-- **Title:** [Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/)  
+### [Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/)  
 - **Platform:** freecodecamp
 - **Description:** learn the fundamentals of data analysis with Python,Numpy, Pandas, Matplotlib, and Seaborn to process and visualize data.
 - **Duration:** Couple of hours probably,not tested
-- **Cost:** Free 
+- **Cost:** 🎁 
 - **Prerequisites:** should not be your first course,suggest going through the kaggle courses first
-- **Certificate:** Yes
+- **Certificate:** 🎓
 
 <a name="machine-learning"></a>
 ## ⚙️ Machine Learning
@@ -121,16 +115,6 @@ Machine learning is a subset of artificial intelligence (AI) that focuses on bui
 
 "Torture the data, and it will confess to anything."
 ~ Some guy that loved cats and was into economics
-
-
-### Course 1:
-- **Title:** [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) 
-- **Platform:** Coursera
-- **Description:** The go to first ML course that is recomended, but you do need pre-req knowledge to fully absorb it
-- **Duration:** 2 months at 10 hours a week
-- **Cost:** Financial Aid(Free) or $40~50
-- **Prerequisites:** Knowledge in Python and Math for Machine Learning will help a lot
-- **Certificate:** Yes
 
 ### Course 2:
 - **Title:** [Machine Learning with Python](https://www.freecodecamp.org/learn/machine-learning-with-python/) 
@@ -150,16 +134,6 @@ Machine learning is a subset of artificial intelligence (AI) that focuses on bui
 - **Prerequisites:** None
 - **Certificate:** Yes
 
-### Course 4:
-- **Title:** [Kaggle playlist](https://www.kaggle.com/learn) 
-- **Platform:** Kaggle
-- **Description:** A kaggle playlist geared toward ML, super beginner friendly, should probably do this first if complete beginner
-- **Duration:** no idea
-- **Cost:** free
-- **Prerequisites:** None
-- **Certificate:** badges, almost worthless, but cool
-
-
 
 <a name="math"></a>
 ## 🧮 The Math
@@ -167,15 +141,6 @@ Machine learning is a subset of artificial intelligence (AI) that focuses on bui
 Mathematics is the intricate language of the universe, a symphony of logic and creativity, unlocking nature's deepest secrets and shaping our modern world in countless, often unseen ways.
 
 "A mathematician is a blind man in a dark room looking for a black cat which isn't there." ~ some guy that dropped out of medical school 
-
-### Course 1:
-- **Title:** [Mathematics for Machine Learning and Data Science Specialization](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science?)
-- **Platform:** Coursera
-- **Description:** calculus, linear algebra, statistics, and probability. The fun stuff.Covers everything but you will need deeper practice for full understanding
-- **Duration:** 3 months at 5 hours a week
-- **Cost:** Free with financial Aid or paid coursera sub($40)
-- **Prerequisites:** highscool math 
-- **Certificate:** Yes
 
 ### Course 2:
 - **Title:** [Linear Algebra for Machine Learning](https://www.youtube.com/playlist?list=PLRDl2inPrWQW1QSWhBU0ki-jq_uElkh2a)
