@@ -11,7 +11,8 @@ So, take a deep breath, muster your curiosity, and jump right in! Remember, ever
 # 🚕 Table of Contents:
 
 - [👶🏻 Baby Steps](#baby)
-  
+
+  <a name="bonus"></a>
 **Bonus resources:**
 - [🐍 Python](#python)
 - [⚙️ Machine Learning](#machine-learning)
@@ -52,6 +53,10 @@ Just as a child takes tentative, uncertain steps before running with confidence,
 - **Prerequisites:** None
 - **Certificate:** 🎓
 
+---
+**🔔 Heads Up!**
+Baby steps are enough for you to move on to more challenging stuff, but you are free to explore the rest of the resources here to hone your skill even further.Use the [Index](#bonus) to see what you want to explore 🌱
+--- 
 
 
 <a name="python"></a>
