@@ -67,7 +67,7 @@ Python is a high-level, dynamically-typed programming language known for its sim
 
 ### [Python for Everybody Specialization by the University of Michigan](https://www.coursera.org/specializations/python)
 - **Platform:** Coursera  
-- **Description:** Specialization - 5 course series, a course better for people with no programming exp,but fantastic for beginners  
+- **Description:** Specialization - 5 course series, a course better for people with no programming experience,but fantastic for beginners  
 - **Duration:** 2 months at 10 hours a week
 - **Cost:** 🩹[Financial Aid](#aid) or 💲(Coursera subscription)
 - **Prerequisites:** None
