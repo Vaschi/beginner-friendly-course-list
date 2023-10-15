@@ -4,6 +4,7 @@
 **UDEMY Coupon's:** [Udemy Coupon Generator](https://infognu.com/udemy-coupon-generator)
 - **How:** enter the link of the udemy course,click on activate coupon
 
+<a name="aid"></a>
 **Coursera financial aid** [How to apply for Financial Aid on Coursera](https://www.youtube.com/watch?v=YD0pop4eyr4&ab_channel=CalebDigest)
 - **Tip:** Save the essays , you will reuse 90%~100% of them for later courses
 - **Tip_2:** ChatGPT is a great essay writing tool 
@@ -13,9 +14,36 @@
 
 # 🚕 Table of Contents:
 
+- [👶🏻 Baby Steps](#baby)
 - [🐍 Python](#python)
 - [⚙️ Machine Learning](#machine-learning)
 - [🧮 The Math](#math)
+
+<a name="baby"></a>
+## 👶🏻 Baby Steps 
+Just as a child takes tentative, uncertain steps before running with confidence, every learner must embrace these beginning stages, appreciating their significance in shaping a solid foundation for future mastery.
+
+“To improve is to change; to be perfect is to change often.” – some guy that didn't like Gandhi
+
+### First step:
+- **Title:** [Kaggle playlist](https://www.kaggle.com/learn)  
+- **Platform:** Kaggle
+- **Description:** A ladder of short courses, everything you need to start your jurney, they should be done in order
+- **Duration:** They all take a couple of hours depanding on your pace and expirience 
+- **Cost:** 🎁 
+- **Prerequisites:** None
+- **Certificate:** 🚫, you do get cool badges
+
+
+### Second step:
+- **Title:** [Mathematics for Machine Learning and Data Science Specialization](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science?=)  
+- **Platform:** Coursera
+- **Description:** 3 course specialization(Linear Algebra, Calculus, Statistics and Probability ~ The fun stuff XD), all the math you need to challenge God.
+- **Duration:** 1 month for each course 
+- **Cost:** 🎁[Financial Aid](#aid) or 💲(Coursera subscription)
+- **Prerequisites:** None
+- **Certificate:** 🎓
+
 
 <a name="python"></a>
 ## 🐍 Python 
@@ -138,7 +166,7 @@ Machine learning is a subset of artificial intelligence (AI) that focuses on bui
 
 Mathematics is the intricate language of the universe, a symphony of logic and creativity, unlocking nature's deepest secrets and shaping our modern world in countless, often unseen ways.
 
-"A mathematician is a blind man in a dark room looking for a black cat which isn't there." ~ some guy that dropped out of medical school and married his first cousine
+"A mathematician is a blind man in a dark room looking for a black cat which isn't there." ~ some guy that dropped out of medical school 
 
 ### Course 1:
 - **Title:** [Mathematics for Machine Learning and Data Science Specialization](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science?)
