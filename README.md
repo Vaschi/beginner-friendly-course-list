@@ -1,15 +1,31 @@
 # Beginner-Friendly  Courses Guide
+🌟 Welcome to the Beginner-Friendly Courses Guide! 🌟
+
+Embarking on a new learning journey can often feel overwhelming, especially when you're not sure where to start. That's why we've curated this guide especially for beginners like you. Whether you're looking to dive into the world of programming, explore the nuances of data science, or unravel the mysteries of machine learning, we've got you covered. Each course listed here has been handpicked to ensure that it's accessible, engaging, and, most importantly, beginner-friendly.
+
+So, take a deep breath, muster your curiosity, and jump right in! Remember, every expert was once a beginner, and your journey to mastery starts with this first step. Happy learning! 📚✨
+
+
 **Tip:** To open course links in a new tab, right-click on the link and select "Open link in new tab" or use the keyboard shortcut `CTRL + click` (or `CMD + click` on Mac).
+
+
 <a name="coupon"></a>
 
 **🏷️ UDEMY Coupon's:** [Udemy Coupon Generator](https://infognu.com/udemy-coupon-generator)
-- **How:** enter the link of the udemy course,click on activate coupon
+- The link will take you to a site that offers free coupons(90% off) for the Udemy platform, just enter the link of the course and generate the coupon.
 
 <a name="aid"></a>
 
 **🩹 Coursera financial aid** [How to apply for Financial Aid on Coursera](https://www.youtube.com/watch?v=YD0pop4eyr4&ab_channel=CalebDigest)
-- **Tip:** Save the essays , you will reuse 90%~100% of them for later courses
-- **Tip_2:** ChatGPT is a great essay writing tool 
+- The link will take you to a video that explains everything you need to do.
+  
+  **Tip:** Save the essays(watch the video) , you will reuse 90%~100% of them for later courses
+  
+  **Tip_2:** ChatGPT is a great essay writing tool
+  
+  **Tip_3:** Don't order more than 2 courses at a time,finish them before ordering new ones,you can order 10 at once but it will be overwhelming and it's easy to start finishing the courses for completion and certificates rather than actually learning from them, this isn't school it's knowledge you choose not the one that is forced on you, enjoy it.
+
+  **Tip_4** It takes 2 weeks for the course to arrive via financial Aid,if you are confident you can order a course the moment you recieve one,that way you can position yourself for continues learning without having to wait a week or two for the next one, altough you do have an option to view the lectures before the course arrives, your choice. 
 
 
 # 🚕 Table of Contents:
