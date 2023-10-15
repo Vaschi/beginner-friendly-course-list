@@ -8,32 +8,15 @@ So, take a deep breath, muster your curiosity, and jump right in! Remember, ever
 
 **Tip:** To open course links in a new tab, right-click on the link and select "Open link in new tab" or use the keyboard shortcut `CTRL + click` (or `CMD + click` on Mac).
 
-
-<a name="coupon"></a>
-
-**🏷️ UDEMY Coupon's:** [Udemy Coupon Generator](https://infognu.com/udemy-coupon-generator)
-- The link will take you to a site that offers free coupons(90% off) for the Udemy platform, just enter the link of the course and generate the coupon.
-
-<a name="aid"></a>
-
-**🩹 Coursera financial aid** [How to apply for Financial Aid on Coursera](https://www.youtube.com/watch?v=YD0pop4eyr4&ab_channel=CalebDigest)
-- The link will take you to a video that explains everything you need to do.
-  
-  **Tip:** Save the essays(watch the video) , you will reuse 90%~100% of them for later courses
-  
-  **Tip_2:** ChatGPT is a great essay writing tool
-  
-  **Tip_3:** Don't order more than 2 courses at a time,finish them before ordering new ones,you can order 10 at once but it will be overwhelming and it's easy to start finishing the courses for completion and certificates rather than actually learning from them, this isn't school it's knowledge you choose not the one that is forced on you, enjoy it.
-
-  **Tip_4** It takes 2 weeks for the course to arrive via financial Aid,if you are confident you can order a course the moment you recieve one,that way you can position yourself for continues learning without having to wait a week or two for the next one, altough you do have an option to view the lectures before the course arrives, your choice. 
-
-
 # 🚕 Table of Contents:
 
 - [👶🏻 Baby Steps](#baby)
+  
+**Bonus resources:**
 - [🐍 Python](#python)
 - [⚙️ Machine Learning](#machine-learning)
 - [🧮 The Math](#math)
+- [📖 Book's](#book)
 
 <a name="baby"></a>
 ## 👶🏻 Baby Steps 
@@ -68,6 +51,7 @@ Just as a child takes tentative, uncertain steps before running with confidence,
 - **Cost:** 🩹[Financial Aid](#aid) or 💲(Coursera subscription)
 - **Prerequisites:** None
 - **Certificate:** 🎓
+
 
 
 <a name="python"></a>
@@ -187,5 +171,41 @@ Mathematics is the intricate language of the universe, a symphony of logic and c
 - **Cost:** 🎁
 - **Prerequisites:** highscool math 
 - **Certificate:** 🚫
+
+<a name="book"></a>
+## 📖 Book's
+Books are magical portals, where ink and paper transform into worlds unexplored, wisdom untapped, and dreams unfurled. In their pages lie endless adventures and timeless knowledge, waiting to be discovered
+
+“ ‘Classic.’ A book which people praise and don’t read.” ~ some guy that got his name from a steamboat
+
+### [The Hundred-Page Machine Learning Book](https://www.amazon.com/Hundred-Page-Machine-Learning-Book/dp/199957950X)
+- Author:  Andriy Burkov
+- Publication Year: January 13, 2019
+- Pages: ~160
+- Description: In a small number of pages, the book covers many topics, and it is a good introduction for beginners 
+- Cost: 💲(Phisical copy) or 🎁([.pdf](http://ema.cri-info.cm/wp-content/uploads/2019/07/2019BurkovTheHundred-pageMachineLearning.pdf))
+
+
+# 💡 Tips and Tricks for Optimal Learning 💡
+
+<a name="coupon"></a>
+
+**🏷️ UDEMY Coupon's:** [Udemy Coupon Generator](https://infognu.com/udemy-coupon-generator)
+- The link will take you to a site that offers free coupons(90% off) for the Udemy platform, just enter the link of the course and generate the coupon.
+
+<a name="aid"></a>
+
+**🩹 Coursera financial aid** [How to apply for Financial Aid on Coursera](https://www.youtube.com/watch?v=YD0pop4eyr4&ab_channel=CalebDigest)
+- The link will take you to a video that explains everything you need to do.
+  
+  **Tip:** Save the essays(watch the video) , you will reuse 90%~100% of them for later courses
+  
+  **Tip_2:** ChatGPT is a great essay writing tool
+  
+  **Tip_3:** Don't order more than 2 courses at a time,finish them before ordering new ones,you can order 10 at once but it will be overwhelming and it's easy to start finishing the courses for completion and certificates rather than actually learning from them, this isn't school it's knowledge you choose not the one that is forced on you, enjoy it.
+
+  **Tip_4** It takes 2 weeks for the course to arrive via financial Aid,if you are confident you can order a course the moment you recieve one,that way you can position yourself for continues learning without having to wait a week or two for the next one, altough you do have an option to view the lectures before the course arrives, your choice. 
+
+
 
 
