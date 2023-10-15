@@ -191,7 +191,7 @@ Books are magical portals, where ink and paper transform into worlds unexplored,
 - Cost: 💲(Phisical copy) or 🎁([.pdf](http://ema.cri-info.cm/wp-content/uploads/2019/07/2019BurkovTheHundred-pageMachineLearning.pdf))
 
 
-# 💡 Tips and Tricks for Optimal Learning 💡
+# 💡 Tips and Tricks for Optimal Learning 💡 [🚕](#bonus)
 
 <a name="coupon"></a>
 
