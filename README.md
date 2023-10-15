@@ -44,7 +44,7 @@ Just as a child takes tentative, uncertain steps before running with confidence,
 ### First step:
 - **Title:** [Kaggle playlist](https://www.kaggle.com/learn)  
 - **Platform:** Kaggle
-- **Description:** A ladder of short courses, everything you need to start your jurney, they should be done in order
+- **Description:** A ladder of short courses, everything you need to start your jurney, they should be done in order, you are welcome to do all of them but you can move on to the second step after finishing "Intro to Machine Learning"
 - **Duration:** They all take a couple of hours depending on your pace and expirience 
 - **Cost:** 🎁 
 - **Prerequisites:** None
@@ -132,23 +132,21 @@ Machine learning is a subset of artificial intelligence (AI) that focuses on bui
 "Torture the data, and it will confess to anything."
 ~ Some guy that loved cats and was into economics
 
-### Course 2:
-- **Title:** [Machine Learning with Python](https://www.freecodecamp.org/learn/machine-learning-with-python/) 
+### [Machine Learning with Python](https://www.freecodecamp.org/learn/machine-learning-with-python/) 
 - **Platform:** freecodecamp
 - **Description:** In the Machine Learning with Python Certification, you'll use the TensorFlow framework to build several neural networks and explore more advanced techniques like natural language processing and reinforcement learning.
 - **Duration:** Not tested
-- **Cost:** Free
+- **Cost:** 🎁 
 - **Prerequisites:** Recommend finishing the coursera specialization
-- **Certificate:** Yes
+- **Certificate:** 🎓
 
-### Course 3:
-- **Title:** [Complete Machine Learning & Data Science Bootcamp 2023](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/) 
+### [Complete Machine Learning & Data Science Bootcamp 2023](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/) 
 - **Platform:** Udemy
 - **Description:** Learn Data Science, Data Analysis, Machine Learning (Artificial Intelligence) and Python with Tensorflow, Pandas.Highly rated course, a big one, has a lot of topics for beginners to explore
 - **Duration:** 43.5 hours + exercises
-- **Cost:** $79.99 , can cripple with coupon(90% off)
+- **Cost:** 💲79.99 , [🏷️ 90% off](#coupon)  
 - **Prerequisites:** None
-- **Certificate:** Yes
+- **Certificate:** 🎓
 
 
 <a name="math"></a>
@@ -158,40 +156,36 @@ Mathematics is the intricate language of the universe, a symphony of logic and c
 
 "A mathematician is a blind man in a dark room looking for a black cat which isn't there." ~ some guy that dropped out of medical school 
 
-### Course 2:
-- **Title:** [Linear Algebra for Machine Learning](https://www.youtube.com/playlist?list=PLRDl2inPrWQW1QSWhBU0ki-jq_uElkh2a)
+### [Linear Algebra for Machine Learning](https://www.youtube.com/playlist?list=PLRDl2inPrWQW1QSWhBU0ki-jq_uElkh2a)
 - **Platform:** Youtube
 - **Description:** Linear algebra for ML, a playlist
 - **Duration:** don't know, find out
-- **Cost:** Free
+- **Cost:** 🎁
 - **Prerequisites:** highscool math 
-- **Certificate:** No
+- **Certificate:** 🚫
 
-### Course 3:
-- **Title:** [calculus for machine learning](https://www.youtube.com/playlist?list=PLRDl2inPrWQVu2OvnTvtkRpJ-wz-URMJx)
+### [calculus for machine learning](https://www.youtube.com/playlist?list=PLRDl2inPrWQVu2OvnTvtkRpJ-wz-URMJx)
 - **Platform:** Youtube
 - **Description:** Calculus for ML, a playlist
 - **Duration:** don't know, find out
-- **Cost:** Free
+- **Cost:** 🎁
 - **Prerequisites:** highscool math 
-- **Certificate:** No
+- **Certificate:** 🚫
 
-### Course 4:
-- **Title:** [Statistics - A Full University Course on Data Science Basics](https://www.youtube.com/watch?v=xxpc-HPKN28&ab_channel=freeCodeCamp.org)
+### [Statistics - A Full University Course on Data Science Basics](https://www.youtube.com/watch?v=xxpc-HPKN28&ab_channel=freeCodeCamp.org)
 - **Platform:** Youtube
 - **Description:**  collect, organize, summarize, interpret and reach conclusions about data. An emphasis is placed on demonstrating that statistics is more than mathematical calculations
 - **Duration:** 8 h : 15 min
-- **Cost:** Free
+- **Cost:** 🎁
 - **Prerequisites:** highscool math 
-- **Certificate:** No
+- **Certificate:** 🚫
 
-### Course 5:
-- **Title:** [Probabilistic ML](https://www.youtube.com/playlist?list=PL05umP7R6ij2YE8rRJSb-olDNbntAQ_Bx)
+### [Probabilistic ML](https://www.youtube.com/playlist?list=PL05umP7R6ij2YE8rRJSb-olDNbntAQ_Bx)
 - **Platform:** Youtube
 - **Description:**  Probability, “You’ll always miss 100% of the shots you don’t take.” – guy that plays Hockey 
 - **Duration:** ~36 h
-- **Cost:** Free
+- **Cost:** 🎁
 - **Prerequisites:** highscool math 
-- **Certificate:** No
+- **Certificate:** 🚫
 
 
