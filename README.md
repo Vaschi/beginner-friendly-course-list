@@ -2,16 +2,14 @@
 **Tip:** To open course links in a new tab, right-click on the link and select "Open link in new tab" or use the keyboard shortcut `CTRL + click` (or `CMD + click` on Mac).
 <a name="coupon"></a>
 
-**UDEMY Coupon's:** [Udemy Coupon Generator](https://infognu.com/udemy-coupon-generator)
+**🏷️ UDEMY Coupon's:** [Udemy Coupon Generator](https://infognu.com/udemy-coupon-generator)
 - **How:** enter the link of the udemy course,click on activate coupon
 
 <a name="aid"></a>
 
-**Coursera financial aid** [How to apply for Financial Aid on Coursera](https://www.youtube.com/watch?v=YD0pop4eyr4&ab_channel=CalebDigest)
+**🩹 Coursera financial aid** [How to apply for Financial Aid on Coursera](https://www.youtube.com/watch?v=YD0pop4eyr4&ab_channel=CalebDigest)
 - **Tip:** Save the essays , you will reuse 90%~100% of them for later courses
 - **Tip_2:** ChatGPT is a great essay writing tool 
-
-**Creator's note:** The order doesn't mean anything,have fun.
 
 
 # 🚕 Table of Contents:
@@ -42,7 +40,7 @@ Just as a child takes tentative, uncertain steps before running with confidence,
 - **Platform:** Coursera
 - **Description:** 3 course specialization(Linear Algebra, Calculus, Statistics and Probability ~ The fun stuff XD), all the math you need to challenge God.
 - **Duration:** 1 month for each course 
-- **Cost:** 🎁[Financial Aid](#aid) or 💲(Coursera subscription)
+- **Cost:** 🩹[Financial Aid](#aid) or 💲(Coursera subscription)
 - **Prerequisites:** None
 - **Certificate:** 🎓
 
@@ -51,7 +49,7 @@ Just as a child takes tentative, uncertain steps before running with confidence,
 - **Platform:** Coursera
 - **Description:** 3 course specialization, industry standard for starting point in Machine Learning
 - **Duration:** 1 month for each course 
-- **Cost:** 🎁[Financial Aid](#aid) or 💲(Coursera subscription)
+- **Cost:** 🩹[Financial Aid](#aid) or 💲(Coursera subscription)
 - **Prerequisites:** None
 - **Certificate:** 🎓
 
@@ -66,7 +64,7 @@ Python is a high-level, dynamically-typed programming language known for its sim
 - **Platform:** Coursera  
 - **Description:** Specialization - 5 course series, a course better for people with no programming exp,but fantastic for beginners  
 - **Duration:** 2 months at 10 hours a week
-- **Cost:** 🎁[Financial Aid](#aid) or 💲(Coursera subscription)
+- **Cost:** 🩹[Financial Aid](#aid) or 💲(Coursera subscription)
 - **Prerequisites:** None
 - **Certificate:** 🎓
 
