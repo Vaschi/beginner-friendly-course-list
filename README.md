@@ -7,6 +7,8 @@ So, take a deep breath, muster your curiosity, and jump right in! Remember, ever
 
 
 **Tip:** To open course links in a new tab, right-click on the link and select "Open link in new tab" or use the keyboard shortcut `CTRL + click` (or `CMD + click` on Mac).
+
+**Tip_2:** Use the Taxi(🚕) emoji to get back to the Table of Contents.
 <a name="bonus"></a>
 # 🚕 Table of Contents:
 
