@@ -29,7 +29,7 @@ Just as a child takes tentative, uncertain steps before running with confidence,
 - **Title:** [Kaggle playlist](https://www.kaggle.com/learn)  
 - **Platform:** Kaggle
 - **Description:** A ladder of short courses, everything you need to start your jurney, they should be done in order
-- **Duration:** They all take a couple of hours depanding on your pace and expirience 
+- **Duration:** They all take a couple of hours depending on your pace and expirience 
 - **Cost:** 🎁 
 - **Prerequisites:** None
 - **Certificate:** 🚫, you do get cool badges
