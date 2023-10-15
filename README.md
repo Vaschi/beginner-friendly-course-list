@@ -7,12 +7,12 @@ So, take a deep breath, muster your curiosity, and jump right in! Remember, ever
 
 
 **Tip:** To open course links in a new tab, right-click on the link and select "Open link in new tab" or use the keyboard shortcut `CTRL + click` (or `CMD + click` on Mac).
-
+<a name="bonus"></a>
 # 🚕 Table of Contents:
 
 - [👶🏻 Baby Steps](#baby)
 
-  <a name="bonus"></a>
+  
 **Bonus resources:**
 - [🐍 Python](#python)
 - [⚙️ Machine Learning](#machine-learning)
@@ -55,7 +55,7 @@ Just as a child takes tentative, uncertain steps before running with confidence,
 
 ---
 **🔔 Heads Up!**
-Baby steps are enough for you to move on to more challenging stuff, but you are free to explore the rest of the resources here to hone your skill even further.Use the [Index](#bonus) to see what you want to explore 🌱
+Baby steps are enough for you to move on to more challenging stuff, but you are free to explore the rest of the resources here to hone your skill even further.Use the [Table of Contents](#bonus) to see what you want to explore 🌱
 --- 
 
 
