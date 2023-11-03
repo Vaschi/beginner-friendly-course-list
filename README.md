@@ -30,8 +30,8 @@ Just as a child takes tentative, uncertain steps before running with confidence,
 ### First step:
 - **Title:** [Kaggle playlist](https://www.kaggle.com/learn)  
 - **Platform:** Kaggle
-- **Description:** A ladder of short courses, everything you need to start your jurney, they should be done in order, you are welcome to do all of them but you can move on to the second step after finishing "Intro to Machine Learning"
-- **Duration:** They all take a couple of hours depending on your pace and expirience 
+- **Description:** A ladder of short courses, everything you need to start your journey, they should be done in order, you are welcome to do all of them but you can move on to the second step after finishing "Intro to Machine Learning"
+- **Duration:** They all take a couple of hours depending on your pace and experience 
 - **Cost:** 🎁 
 - **Prerequisites:** None
 - **Certificate:** 🚫, you do get cool badges
@@ -93,7 +93,7 @@ Python is a high-level, dynamically-typed programming language known for its sim
   
  ### [Deep Learning Prerequisites: The Numpy Stack in Python (V2+)](https://www.udemy.com/course/deep-learning-prerequisites-the-numpy-stack-in-python/)  
 - **Platform:** Udemy
-- **Description:** isn’t for total Python beginners, intended to prepare you to study deep learning and data science.Focuses on the Numpy Stack,Other topics covered include Pandas, Scipy, and Matplotlib.
+- **Description:** Is not for total Python beginners, intended to prepare you to study deep learning and data science.Focuses on the Numpy Stack,Other topics covered include Pandas, Scipy, and Matplotlib.
 - **Duration:** 5 hours and 54 minutes  
 - **Cost:** 💲74.99 , [🏷️ 90% off](#coupon) 
 - **Prerequisites:** matrix arithmetic and basic Python coding
