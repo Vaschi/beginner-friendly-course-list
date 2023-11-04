@@ -30,7 +30,7 @@ Just as a child takes tentative, uncertain steps before running with confidence,
 ### First step:
 - **Title:** [Kaggle playlist](https://www.kaggle.com/learn)  
 - **Platform:** Kaggle
-- **Description:** A ladder of short courses, everything you need to start your journey, they should be done in order, you are welcome to do all of them but you can move on to the second step after finishing "Intro to Machine Learning"
+- **Description:** A ladder of short courses, everything you need to start your journey, they should be done in order, you are welcome to do all of them but you can move on to the second step after finishing "Python" , "Intro to Machine Learning"
 - **Duration:** They all take a couple of hours depending on your pace and experience 
 - **Cost:** 🎁 
 - **Prerequisites:** None
